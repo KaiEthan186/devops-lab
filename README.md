@@ -1,5 +1,5 @@
 This is my Lab1
-![workflow](https://github.com/<KaiEthan186>/<devops-lab>/actions/workflows/main.yml/badge.svg)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/KaiEthan186/devops-lab/main.yml?branch=master)
 
 [![LICENSE](https://img.shields.io/github/license/<github-KaiEthan186>/devops.svg?style=flat-square)](https://github.com/<github-KaiEthan186>/devops/blob/master/LICENSE)
 
